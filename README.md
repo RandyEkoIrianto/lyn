@@ -1,1 +1,2 @@
 # lyn
+menghitung luas persegi
